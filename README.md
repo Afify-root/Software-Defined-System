@@ -2,6 +2,13 @@
 The solution uses Software-Defined Systems (SDS), AI, and IoT to build advanced early warning systems for urban areas. Software-Defined Devices (SDDs) monitor environmental parameters and AI algorithms predict hazards, allowing for preemptive risk mitigation and improving urban safety and resilience.
 In our project, after evaluating various cloud platforms, we chose Amazon Web Services (AWS) due to its comprehensive features and unparalleled benefits that align with our needs. AWS stands out for several key reasons:
 
+
+
+![image](https://github.com/user-attachments/assets/6b5b9676-0333-437a-89dc-16d318fb7bcf)
+
+![image](https://github.com/user-attachments/assets/c91dec22-4e9d-4ebe-91a7-93fe13d3ce25)
+
+
 1. Extensive Range of Services
 •	Diverse Offerings: AWS provides a wide array of services, from computing power and storage to advanced machine learning and analytics tools. This extensive range allows us to leverage the best solutions for every aspect of our project.
 •	Integration: AWS services are designed to work seamlessly together, offering a cohesive ecosystem that simplifies development and deployment processes.
